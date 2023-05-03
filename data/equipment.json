@@ -20,6 +20,13 @@
   "max_damage": 1,
   "min_damage": 0.5,
   "stamina_per_hit": 1
+  },
+  {
+  "id": 4,
+  "name": "алмазный меч",
+  "max_damage": 3,
+  "min_damage": 2,
+  "stamina_per_hit": 2
   }
 ],
   "armors": [
@@ -36,10 +43,16 @@
     "stamina_per_turn": 1
     },
     {
-    "id": 3,
-    "name": "панцирь",
-    "defence": 2.0,
-    "stamina_per_turn": 1.6
+      "id": 3,
+      "name": "панцирь",
+      "defence": 2.0,
+      "stamina_per_turn": 1.6
+    },
+    {
+    "id": 4,
+    "name": "алмазная броня",
+    "defence": 5.0,
+    "stamina_per_turn": 1.8
     }
   ]
 }
